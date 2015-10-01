@@ -1,0 +1,10 @@
+dist
+.tmp
+node_modules
+ssh-config.js
+2015-10-01_amp_cache
+2015-10-01_amp_files
+2015-10-01_amp.html
+.Rhistory
+
+*.swp

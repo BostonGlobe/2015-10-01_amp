@@ -1,0 +1,6 @@
+<div id="bostonglobe-2015-10-01_amp" style="margin: 20px 0;"></div>
+<script src="http://apps.bostonglobe.com/common/js/pym/pym-0.4.5.min.js"></script>
+<script>
+	var pymParent = new pym.Parent("bostonglobe-2015-10-01_amp", "http://apps.bostonglobe.com/graphics/2015/10/4-amp", {});
+
+</script>
