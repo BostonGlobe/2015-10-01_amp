@@ -1,4 +1,5 @@
 dist
+map
 .tmp
 node_modules
 ssh-config.js
