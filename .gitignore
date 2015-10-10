@@ -1,5 +1,6 @@
 dist
 map
+ai
 .tmp
 node_modules
 ssh-config.js
